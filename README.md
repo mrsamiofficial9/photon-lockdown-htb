@@ -28,7 +28,7 @@ file *
 ```
 
 ![File Command](./file-command.png)
-![./wikipedia.png]
+![](./wikipedia.png)
 ```bash
 sudo apt install squashfs-tools
 ```
