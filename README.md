@@ -22,7 +22,7 @@ cd ONT
 ls -la
 ```
   
-		![[list-dir.png]]
+![[list-dir.png]]
 ```bash
 file *
 ```
