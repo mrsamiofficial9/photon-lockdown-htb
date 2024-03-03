@@ -22,18 +22,18 @@ cd ONT
 ls -la
 ```
   
-![./list-dir.png]
+![List Dir](./list-dir.png)
 ```bash
 file *
 ```
 
-![./file-command.png]
+![File Command](./file-command.png)
 ![./wikipedia.png]
 ```bash
 sudo apt install squashfs-tools
 ```
 #### *Read about unsquashs tool on man page*
-![./man-unsquashfs.png]
+![](./man-unsquashfs.png)
 
 ```bash
 unsquashfs -d file rootfs
@@ -46,12 +46,12 @@ cd file
 ```bash
 ls -la
 ```
-![./Pasted image 20240304015120.png]
+![List Dir](./man-unsquashfs.png)
 
 ```bash
 grep -r "HTB" 2>/dev/null
 ```
-![./flag.png]
+![Flag](./flag.png)
 
 finally we get, the flag
 ##### flag: *HTB{N0w_Y0u_C4n_L0g1n}*
