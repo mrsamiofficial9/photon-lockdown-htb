@@ -1,4 +1,4 @@
-![[photon-lockdown-htb.png]]
+![](photon-lockdown-htb.png)
 #### Categories: Hardware
 #### Challenge Info: Device Firmware
 #### Challenge Level: Very Easy
@@ -46,7 +46,6 @@ cd file
 ```bash
 ls -la
 ```
-![List Dir](./man-unsquashfs.png)
 
 ```bash
 grep -r "HTB" 2>/dev/null
