@@ -46,7 +46,7 @@ cd file
 ```bash
 ls -la
 ```
-
+![Listed Two](./listed-two.png)
 ```bash
 grep -r "HTB" 2>/dev/null
 ```
